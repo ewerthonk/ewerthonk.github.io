@@ -5,13 +5,13 @@
 ## 👨🏻‍🏫 Description
 
 A portfolio containing:
-- Some of my favorites Data Science Projects;
-- My CV;
-- My work/volunteer experiences *beyond their activities description*, with examples of the deliveries I made;
-- My Data Science content bookmark;
-- The courses I have completed and those I still want to do, with note-taking;
-- The books I read and still reading, with annotations;
-- A list of my favorites movies, series, and podcasts.
+📂 Some of my favorites Data Science Projects; \
+📜 My CV; \
+📃 My work/volunteer experiences *beyond their activities description*, with examples of the deliveries I made;
+📎 My Data Science content bookmark;
+🎓 The courses I have completed and those I still want to do, with note-taking;
+📚 The books I read and still reading, with annotations;
+🚪 A list of my favorites movies, series, and podcasts.
 
 ## 🔧 Tools
 
