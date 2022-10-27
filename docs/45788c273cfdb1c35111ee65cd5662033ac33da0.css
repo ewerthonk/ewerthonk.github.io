@@ -580,6 +580,29 @@ html.notion-front-page .notion-app-inner {
     background: transparent
     }
 /* ==================================================================== */
+/* Box.
+/* ==================================================================== */
+/* testid data attribute is the wrapper for the picker element
+	.be-app-element is the content element*/
+#box-app-container > div {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    height: 100vh;
+    width: 100vw;
+    z-index: 1000;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+#box-app-container .be-app-element {
+    width: calc(100% - 150px);
+    height: calc(100% - 150px);
+    background: white;
+    max-width: 1150px;
+    max-height: 620px
+    }
+/* ==================================================================== */
 /* Loading Spinner.
 /* ==================================================================== */
 .loading-spinner {
